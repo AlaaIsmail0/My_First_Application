@@ -1,8 +1,30 @@
+
 <resources>
     <string name="app_name">My First Application</string>
-    <string-array name="books">
-        <item>Programing</item>
-        <item>DataBase</item>
-        <item>Web</item>
+    <string name="select_status">Select Status:</string>
+    <string name="Choose_Hospital">Choose a Hospital</string>
+    <string name="search">Search</string>
+    <string name="save">Save</string>
+    <string name="enter_new_Doctor">Enter a new Doctor</string>
+    <string name="safe">Safe</string>
+    <string name="targeted">Targeted</string>
+
+    <string-array name="hospitals">
+        <item>Al-Ahli Arab Hospital</item>
+        <item>Shuhada Al-Aqsa Hospital</item>
+        <item>Al-Awda Hospital</item>
+        <item>Al-Helal Hospital</item>
+        <item>Al-Shifa Hospital</item>
+        <item>Al-Rantisi Hospital</item>
+        <item>Beit Hanoun Hospital</item>
+        <item>European Hospital</item>
+        <item>Indonesia Hospital</item>
+        <item>Kamal Adwan Hospital</item>
+        <item>Jordanian Field Hospital</item>
+        <item>Al-Quds Hospital</item>
+        <item>Nasser Hospital</item>
+
     </string-array>
+
+
 </resources>
